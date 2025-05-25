@@ -1,4 +1,4 @@
-# Online event registration
+# Subscription - web
 
 This is a responsive website project built with React, TypeScript, and Tailwind CSS. The site includes a header with responsive navigation and a mobile menu.
 
